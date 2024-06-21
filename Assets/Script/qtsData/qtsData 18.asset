@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8be647033243f484581e867162393431, type: 3}
+  m_Name: qtsData 18
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Who painted "The Starry Night"?
+    replies:
+    - Vincent van Gogh
+    - Pablo Picasso
+    - Claude Monet
+    - "Salvador Dal\xED"
+    correctReplyIndex: 0
+  - questionText: What is the capital of Turkey?
+    replies:
+    - Istanbul
+    - Ankara
+    - Izmir
+    - Antalya
+    correctReplyIndex: 1
+  - questionText: Who invented the airplane?
+    replies:
+    - Wright Brothers
+    - Alexander Graham Bell
+    - Leonardo da Vinci
+    - Samuel Pierpont Langley
+    correctReplyIndex: 1
+  - questionText: What is the chemical symbol for helium?
+    replies:
+    - H
+    - He
+    - Hm
+    - Hl
+    correctReplyIndex: 1
+  - questionText: Who wrote "The Picture of Dorian Gray"?
+    replies:
+    - Oscar Wilde
+    - James Joyce
+    - Virginia Woolf
+    - D.H. Lawrence
+    correctReplyIndex: 0
+  - questionText: What is the capital of Brazil?
+    replies:
+    - Rio de Janeiro
+    - "Bras\xEDlia"
+    - "S\xE3o Paulo"
+    - Salvador
+    correctReplyIndex: 1
+  - questionText: Who discovered radioactivity?
+    replies:
+    - Marie Curie
+    - Pierre Curie
+    - Ernest Rutherford
+    - Wilhelm Conrad Roentgen
+    correctReplyIndex: 0
+  - questionText: What is the chemical symbol for copper?
+    replies:
+    - Cp
+    - Co
+    - Cu
+    - Cr
+    correctReplyIndex: 2
+  - questionText: Who wrote "The Adventures of Huckleberry Finn"?
+    replies:
+    - Mark Twain
+    - Herman Melville
+    - Nathaniel Hawthorne
+    - Edgar Allan Poe
+    correctReplyIndex: 0
+  - questionText: What is the capital of Spain?
+    replies:
+    - Lisbon
+    - Madrid
+    - Barcelona
+    - Valencia
+    correctReplyIndex: 1

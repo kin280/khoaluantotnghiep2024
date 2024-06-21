@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8be647033243f484581e867162393431, type: 3}
+  m_Name: qtsData 5
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: What is the chemical symbol for aluminum?
+    replies:
+    - Al
+    - Am
+    - Au
+    - Ag
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: Who painted the "Guernica"?
+    replies:
+    - Pablo Picasso
+    - "Salvador Dal\xED"
+    - Vincent van Gogh
+    - Claude Monet
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of Russia?
+    replies:
+    - Moscow
+    - St. Petersburg
+    - Novosibirsk
+    - Vladivostok
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: Who invented the computer?
+    replies:
+    - Charles Babbage
+    - Alan Turing
+    - John von Neumann
+    - Ada Lovelace
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the chemical symbol for uranium?
+    replies:
+    - Um
+    - U
+    - Un
+    - Ur
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who wrote "The Iliad"?
+    replies:
+    - Homer
+    - Virgil
+    - Plato
+    - Aristotle
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of Germany?
+    replies:
+    - Berlin
+    - Munich
+    - Hamburg
+    - Frankfurt
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: Who discovered penicillin?
+    replies:
+    - Alexander Fleming
+    - Louis Pasteur
+    - Robert Koch
+    - Jonas Salk
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the chemical symbol for silicon?
+    replies:
+    - Sl
+    - Si
+    - Se
+    - Sn
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who wrote "The Canterbury Tales"?
+    replies:
+    - Geoffrey Chaucer
+    - William Shakespeare
+    - John Milton
+    - Edmund Spenser
+    correctReplyIndex: 0
+    timeLimit: 30

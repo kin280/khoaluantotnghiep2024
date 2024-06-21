@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8be647033243f484581e867162393431, type: 3}
+  m_Name: qtsData 6
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: What is the capital of Egypt?
+    replies:
+    - Alexandria
+    - Cairo
+    - Luxor
+    - Giza
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who painted "The Persistence of Memory"?
+    replies:
+    - Pablo Picasso
+    - "Salvador Dal\xED"
+    - Vincent van Gogh
+    - Claude Monet
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: What is the chemical symbol for tin?
+    replies:
+    - Ti
+    - Tn
+    - Sn
+    - Si
+    correctReplyIndex: 2
+    timeLimit: 30
+  - questionText: Who wrote "The Divine Comedy"?
+    replies:
+    - Dante Alighieri
+    - Petrarch
+    - Giovanni Boccaccio
+    - "Niccol\xF2 Machiavelli"
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of Argentina?
+    replies:
+    - Buenos Aires
+    - Santiago
+    - Rio de Janeiro
+    - Lima
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: Who discovered the theory of relativity?
+    replies:
+    - Johannes Kepler
+    - Albert Einstein
+    - Isaac Newton
+    - Galileo Galilei
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: What is the chemical symbol for mercury?
+    replies:
+    - Me
+    - Hg
+    - Mg
+    - Mc
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who wrote "War and Peace"?
+    replies:
+    - Leo Tolstoy
+    - Fyodor Dostoevsky
+    - Anton Chekhov
+    - Ivan Turgenev
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of India?
+    replies:
+    - Mumbai
+    - New Delhi
+    - Kolkata
+    - Chennai
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: What is the chemical symbol for tin?
+    replies:
+    - Ti
+    - Tn
+    - Sn
+    - Si
+    correctReplyIndex: 2
+    timeLimit: 30

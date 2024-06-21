@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8be647033243f484581e867162393431, type: 3}
+  m_Name: qtsData 10
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Who painted "The Birth of Venus"?
+    replies:
+    - Sandro Botticelli
+    - Leonardo da Vinci
+    - Michelangelo
+    - Raphael
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the chemical symbol for sodium?
+    replies:
+    - Sn
+    - Na
+    - S
+    - So
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who wrote "The Lord of the Rings"?
+    replies:
+    - J.R.R. Tolkien
+    - C.S. Lewis
+    - George R.R. Martin
+    - J.K. Rowling
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of Thailand?
+    replies:
+    - Bangkok
+    - Phuket
+    - Chiang Mai
+    - Pattaya
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: Who discovered the double helix structure of DNA?
+    replies:
+    - James Watson and Francis Crick
+    - Rosalind Franklin
+    - Linus Pauling
+    - Maurice Wilkins
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the chemical symbol for potassium?
+    replies:
+    - Po
+    - K
+    - Pt
+    - P
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who painted "The Girl with a Pearl Earring"?
+    replies:
+    - Johannes Vermeer
+    - Rembrandt
+    - Vincent van Gogh
+    - Jan van Eyck
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of Saudi Arabia?
+    replies:
+    - Riyadh
+    - Jeddah
+    - Mecca
+    - Medina
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: Who wrote "The Odyssey"?
+    replies:
+    - Homer
+    - Virgil
+    - Plato
+    - Aristotle
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the chemical symbol for iron?
+    replies:
+    - Ir
+    - Fe
+    - Io
+    - In
+    correctReplyIndex: 1
+    timeLimit: 30

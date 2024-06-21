@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8be647033243f484581e867162393431, type: 3}
+  m_Name: qtsData 2
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: What is the chemical symbol for carbon?
+    replies:
+    - Ca
+    - Co
+    - C
+    - Cr
+    correctReplyIndex: 2
+    timeLimit: 30
+  - questionText: Who painted the "Starry Night"?
+    replies:
+    - Vincent van Gogh
+    - Pablo Picasso
+    - Claude Monet
+    - "Salvador Dal\xED"
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of France?
+    replies:
+    - Madrid
+    - Paris
+    - Rome
+    - Berlin
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who invented the telephone?
+    replies:
+    - Thomas Edison
+    - Alexander Graham Bell
+    - Nikola Tesl
+    - Guglielmo Marconi
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: What is the chemical symbol for oxygen?
+    replies:
+    - O
+    - O2
+    - Ox
+    - Os
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: Who wrote "Pride and Prejudice"?
+    replies:
+    - Jane Austen
+    - "Charlotte Bront\xEB"
+    - Emily Dickinson
+    - Virginia Woolf
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of Japan?
+    replies:
+    - Kyoto
+    - Osaka
+    - Tokyo
+    - Seoul
+    correctReplyIndex: 2
+    timeLimit: 30
+  - questionText: Which of these is not a mammal?
+    replies:
+    - Cat
+    - Dolphin
+    - Snake
+    - Whale
+    correctReplyIndex: 2
+    timeLimit: 30
+  - questionText: What is the chemical symbol for silver?
+    replies:
+    - Sv
+    - Ag
+    - Si
+    - Sl
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who was the first President of the United States?
+    replies:
+    - Thomas Jefferson
+    - George Washington
+    - John Adams
+    - Abraham Lincoln
+    correctReplyIndex: 1
+    timeLimit: 30

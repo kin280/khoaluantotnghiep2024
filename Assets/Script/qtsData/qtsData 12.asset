@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8be647033243f484581e867162393431, type: 3}
+  m_Name: qtsData 12
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Who invented the telephone?
+    replies:
+    - Alexander Graham Bell
+    - Thomas Edison
+    - Nikola Tesla
+    - Guglielmo Marconi
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the chemical symbol for helium?
+    replies:
+    - H
+    - He
+    - Hm
+    - Hl
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who wrote "The Old Man and the Sea"?
+    replies:
+    - Ernest Hemingway
+    - F. Scott Fitzgerald C) John Steinbeck
+    - John Steinbeck
+    - William Faulkner
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of South Korea?
+    replies:
+    - Seoul
+    - Busan
+    - Incheon
+    - Daegu
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: Who discovered penicillin?
+    replies:
+    - Alexander Fleming
+    - Louis Pasteur
+    - Robert Koch
+    - Jonas Salk
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the chemical symbol for zinc?
+    replies:
+    - Zn
+    - Zi
+    - Ze
+    - Z
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: Who wrote "The Divine Comedy"?
+    replies:
+    - Dante Alighieri
+    - Petrarch
+    - Giovanni Boccaccio
+    - "Niccol\xF2 Machiavelli"
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of Egypt?
+    replies:
+    - Alexandria
+    - Cairo
+    - Luxor
+    - Giza
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who discovered the laws of motion?
+    replies:
+    - Isaac Newton
+    - Albert Einstein
+    - Galileo Galilei
+    - Johannes Kepler
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the chemical symbol for water?
+    replies:
+    - H2O2
+    - CO2
+    - H2O
+    - O2
+    correctReplyIndex: 2
+    timeLimit: 30

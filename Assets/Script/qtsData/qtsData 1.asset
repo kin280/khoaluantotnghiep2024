@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8be647033243f484581e867162393431, type: 3}
+  m_Name: qtsData 1
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: What is the largest organ in the human body?
+    replies:
+    - Liver
+    - Brain
+    - Skin
+    - Heart
+    correctReplyIndex: 2
+    timeLimit: 30
+  - questionText: What is the capital of Canada?
+    replies:
+    - Toronto
+    - Vancouver
+    - Ottawa
+    - Montreal
+    correctReplyIndex: 2
+    timeLimit: 30
+  - questionText: Who wrote "1984"?
+    replies:
+    - Aldous Huxley
+    - George Orwell
+    - Ray Bradbury
+    - J.D. Salinger
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: What is the chemical symbol for sodium?
+    replies:
+    - Sn
+    - Na
+    - S
+    - So
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who was the first person to step on the moon?
+    replies:
+    - Neil Armstrong
+    - Buzz Aldrin
+    - Michael Collins
+    - Yuri Gagarin
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of Brazil?
+    replies:
+    - Rio de Janeiro
+    - "Bras\xEDlia"
+    - "S\xE3o Paulo"
+    - ' Salvador'
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Which of these is not a primary color?
+    replies:
+    - Red
+    - Yellow
+    - Green
+    - Blue
+    correctReplyIndex: 2
+    timeLimit: 30
+  - questionText: What is the chemical symbol for iron?
+    replies:
+    - Ir
+    - Fe
+    - Io
+    - In
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who is the author of "The Great Gatsby"?
+    replies:
+    - John Steinbeck
+    - F. Scott Fitzgerald
+    - Ernest Hemingway
+    - William Faulkner
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the largest ocean in the world?
+    replies:
+    - Pacific Ocean
+    - Atlantic Ocean
+    - Indian Ocean
+    - Arctic Ocean
+    correctReplyIndex: 0
+    timeLimit: 30

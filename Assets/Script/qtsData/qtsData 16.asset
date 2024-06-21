@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8be647033243f484581e867162393431, type: 3}
+  m_Name: qtsData 16
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Who discovered X-rays?
+    replies:
+    - Wilhelm Conrad Roentgen
+    - Marie Curie
+    - Pierre Curie
+    - Ernest Rutherford
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the chemical symbol for silver?
+    replies:
+    - Sv
+    - Ag
+    - Si
+    - Sl
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who painted "The Scream"?
+    replies:
+    - Edvard Munch
+    - Pablo Picasso
+    - Vincent van Gogh
+    - Claude Monet
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of Indonesia?
+    replies:
+    - Jakarta
+    - Bali
+    - Surabaya
+    - Bandung
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: Who discovered the law of gravity?
+    replies:
+    - Isaac Newton
+    - Albert Einstein
+    - ' Galileo Galilei'
+    - Johannes Kepler
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the chemical symbol for oxygen?
+    replies:
+    - O
+    - O2
+    - Ox
+    - Os
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: Who wrote "Crime and Punishment"?
+    replies:
+    - Fyodor Dostoevsky
+    - Leo Tolstoy
+    - Anton Chekhov
+    - Ivan Turgenev
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of Argentina?
+    replies:
+    - Buenos Aires
+    - Santiago
+    - Rio de Janeiro
+    - Lima
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: Who discovered the telephone?
+    replies:
+    - Alexander Graham Bell
+    - Thomas Edison
+    - Nikola Tesla
+    - Guglielmo Marconi
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the chemical symbol for helium?
+    replies:
+    - H
+    - He
+    - Hm
+    - Hl
+    correctReplyIndex: 1
+    timeLimit: 30

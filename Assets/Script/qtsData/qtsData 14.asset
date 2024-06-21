@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8be647033243f484581e867162393431, type: 3}
+  m_Name: qtsData 14
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Who wrote "War and Peace"?
+    replies:
+    - Leo Tolstoy
+    - Fyodor Dostoevsky
+    - Anton Chekhov
+    - Ivan Turgenev
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of India?
+    replies:
+    - Mumbai
+    - New Delhi
+    - Kolkata
+    - Chennai
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who painted "American Gothic"?
+    replies:
+    - Grant Wood
+    - Edward Hopper
+    - Jackson Pollock
+    - Georgia O'Keeffe
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of South Africa?
+    replies:
+    - Cape Town
+    - Johannesburg
+    - Pretoria
+    - Durban
+    correctReplyIndex: 2
+    timeLimit: 30
+  - questionText: Who discovered the theory of evolution?
+    replies:
+    - Charles Darwin
+    - Gregor Mendel
+    - Alfred Russel Wallace
+    - Thomas Huxley
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the chemical symbol for tungsten?
+    replies:
+    - Tu
+    - W
+    - Ts
+    - Tg
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who wrote "The Grapes of Wrath"?
+    replies:
+    - John Steinbeck
+    - Ernest Hemingway
+    - F. Scott Fitzgerald
+    - William Faulkner
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the capital of Australia?
+    replies:
+    - Sydney
+    - Canberra
+    - Melbourne
+    - Brisbane
+    correctReplyIndex: 1
+    timeLimit: 30
+  - questionText: Who discovered electricity?
+    replies:
+    - Benjamin Franklin
+    - Thomas Edison
+    - Nikola Tesla
+    - James Watt
+    correctReplyIndex: 0
+    timeLimit: 30
+  - questionText: What is the chemical symbol for zinc?
+    replies:
+    - Zn
+    - Zi
+    - Ze
+    - Z
+    correctReplyIndex: 0
+    timeLimit: 30
